@@ -19,6 +19,7 @@ public class 活动 {
 
 
     public static void main(String[] args) throws Exception {
+        System.out.println(111);
         Robot robot = new Robot();
         suc.put("接受任务",new Coordinate(982,494,991,502));
         start(robot);
